@@ -1,3 +1,6 @@
+![Nero Tecnologia Banner LinkedIn](https://user-images.githubusercontent.com/106522255/225561766-74a5ad8c-f7d1-48c6-9e4b-5b942699b6f9.png)
+
+
 - 👋 Hi, I’m @DrAphra
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning JavaScript, and about to finish The Odin Project Fundamentals
