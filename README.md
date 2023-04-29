@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @DrAphra
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript, and about to finish The Odin Project Fundamentals
+- 👀 I have a different background than IT, but I found myself to be in love with coding
+- 🌱 I’m currently improving my skills in JavaScript
 - 💞️ I’m looking to collaborate on dynamic web pages projects, and in general in whichever project I can learn
 - 📫 How to reach me @vic993 on Telegram
 
